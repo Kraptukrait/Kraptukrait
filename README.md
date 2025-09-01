@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT student and hobby developer
+🎓 IT Student | 💻 Hobby Developer | 🚀 Open Source Enthusiast
 
 
 # 💻 Tech Stack:
