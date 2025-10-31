@@ -11,7 +11,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kraptukrait&icon=10&color=1)](https://visitcount.itsvg.in)
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhoaWNyOXVkMmc0amI2amczYng2eXdtcmw2YXVla25nOWR5dmhuaiZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif" alt="Typing" width="200"/>
-
-
