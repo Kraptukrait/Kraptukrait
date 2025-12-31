@@ -1,13 +1,59 @@
-# 💫 About Me:
-🎓 IT Student | 💻 Hobby Developer | 🚀 Open Source Enthusiast
+<div align="center">
 
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=50&pause=1000&color=007BFF&center=true&vCenter=true&width=900&height=120&lines=K+R+A+P+T+U+K+R+A+I+T" alt="Hacker Banner" />
+  
+  <p align="center">
+    <code><b>[SYSTEM ACCESS: GRANTED]</b></code> | <code><b>[ROLE: IT_STUDENT]</b></code> | <code><b>[LEVEL: ROOT]</b></code>
+  </p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kraptukrait&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kraptukrait&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kraptukrait&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=500&color=2E6EEF&center=true&vCenter=true&width=700&lines=%3E_Executing+script...;%3E_Bypassing+limitations;%3E_Building+the+future;01000010+01001100+01010101+01000101" alt="Typing SVG" />
+
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/Kraptukrait?style=for-the-badge&logo=github&label=NODES&color=007BFF&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=Kraptukrait&label=DATA_RECURSIONS&color=007BFF&style=for-the-badge" />
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kraptukrait&icon=10&color=1)](https://visitcount.itsvg.in)
+
+### 📡 Encrypted Skills (Tech Stack)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,mysql,bash,arduino,raspberrypi,linux,debian,ubuntu,arch,kali,vscode,git,github,windows,html,css&theme=dark" />
+</div>
+
+<br />
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <code><b>> IF (knowledge == power) {</b></code><br />
+        <code><b>&nbsp;&nbsp;&nbsp;&nbsp;continue_learning();</b></code><br />
+        <code><b>&nbsp;&nbsp;}</b></code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📈 Global Activity Stream
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kraptukrait&radius=16&theme=default&bg_color=0D1117&color=007BFF&line=007BFF&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+
+### 🌐 Secure Connection Details
+<div align="center">
+  <a href="https://github.com/Kraptukrait">
+    <img src="https://img.shields.io/badge/INITIATE_SESSION-007BFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/mhmaltun/mhmaltun/main/assets/line-neon.gif" width="100%" height="3px" style="filter: hue-rotate(180deg);">
+  <br />
+  <code>STATUS: ENCRYPTED | SOURCE: KRAPTUKRAIT.EXE</code>
+</div>
