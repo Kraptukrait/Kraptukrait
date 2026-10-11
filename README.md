@@ -1,59 +1,33 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=50&pause=1000&color=007BFF&center=true&vCenter=true&width=900&height=120&lines=K+R+A+P+T+U+K+R+A+I+T" alt="Hacker Banner" />
-  
-  <p align="center">
-    <code><b>[SYSTEM ACCESS: GRANTED]</b></code> | <code><b>[ROLE: IT_STUDENT]</b></code> | <code><b>[LEVEL: ROOT]</b></code>
-  </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:4FC3F7&height=180&section=header&text=Kraptukrait&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IT%20Student%20%7C%20Programmer&descAlignY=62&descSize=18)
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=500&color=2E6EEF&center=true&vCenter=true&width=700&lines=%3E_Executing+script...;%3E_Bypassing+limitations;%3E_Building+the+future;01000010+01001100+01010101+01000101" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&height=40&lines=Hi%2C+nice+to+see+you+here+%F0%9F%91%8B;I'm+20+and+studying+computer+science+%F0%9F%92%BB;This+profile+is+getting+an+update+%F0%9F%9B%A0%EF%B8%8F)](https://github.com/Kraptukrait)
 
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/Kraptukrait?style=for-the-badge&logo=github&label=NODES&color=007BFF&logoColor=white" />
-    <img src="https://komarev.com/ghpvc/?username=Kraptukrait&label=DATA_RECURSIONS&color=007BFF&style=for-the-badge" />
-  </p>
 </div>
 
 ---
 
-### 📡 Encrypted Skills (Tech Stack)
+## 👋 About Me
+
+I'm 20 years old, studying computer science, and passionate about programming. I especially enjoy combining software and hardware.
+
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,java,js,php,mysql,bash,arduino,raspberrypi,linux,debian,ubuntu,arch,kali,vscode,git,github,windows,html,css&theme=dark" />
 </div>
 
-<br />
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <code><b>> IF (knowledge == power) {</b></code><br />
-        <code><b>&nbsp;&nbsp;&nbsp;&nbsp;continue_learning();</b></code><br />
-        <code><b>&nbsp;&nbsp;}</b></code>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
-### 📈 Global Activity Stream
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kraptukrait&radius=16&theme=default&bg_color=0D1117&color=007BFF&line=007BFF&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
 
----
+<h1>🚧 NEW EDITION IN PROGRESS 🚧</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=900&height=80&lines=This+profile+is+currently+being+revamped;More+to+see+here+soon+%F0%9F%92%99;Stay+tuned!+%F0%9F%9A%80)](https://github.com/Kraptukrait)
 
-### 🌐 Secure Connection Details
-<div align="center">
-  <a href="https://github.com/Kraptukrait">
-    <img src="https://img.shields.io/badge/INITIATE_SESSION-007BFF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <br />
-  <br />
-  <img src="https://raw.githubusercontent.com/mhmaltun/mhmaltun/main/assets/line-neon.gif" width="100%" height="3px" style="filter: hue-rotate(180deg);">
-  <br />
-  <code>STATUS: ENCRYPTED | SOURCE: KRAPTUKRAIT.EXE</code>
+<img height="70" src="https://img.shields.io/badge/UPDATE-IN%20PROGRESS-4FC3F7?style=for-the-badge&logo=github&logoColor=white" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:4FC3F7&height=110&section=footer)
+
 </div>
