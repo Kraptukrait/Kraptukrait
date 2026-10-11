@@ -15,7 +15,7 @@ I'm 20 years old, studying computer science, and passionate about programming. I
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,php,mysql,bash,arduino,raspberrypi,linux,debian,ubuntu,arch,kali,vscode,git,github,windows,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,mysql,bash,arduino,cpp,raspberrypi,linux,debian,ubuntu,arch,kali,vscode,git,github,windows,html,css&theme=dark" />
 </div>
 
 ---
