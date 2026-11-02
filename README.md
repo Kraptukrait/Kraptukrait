@@ -143,7 +143,7 @@ Highlight: I announced that my next practical Java exam would be **100% error-fr
 <summary><b>💅 The duel with the design team</b></summary>
 <br>
 
-A few people from other departments thought they could outshine me in IT. My answer was a project of my own (the bet was about a website). Who won? 👉 **[Check the repo!](https://github.com/Kraptukrait?tab=repositories)** 🔥
+A few people from other departments thought they could outshine me in IT. My answer was a project of my own (the bet was about a website). Who won? 👉 **[Check the repo!](https://github.com/Kraptukrait/Decision-Matrix_2026)** 🔥
 
 </details>
 
