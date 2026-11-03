@@ -161,11 +161,6 @@ Supporting and motivating other junior developers through their exams and their 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kraptukrait&show_icons=true&hide_border=true&bg_color=0b1730&title_color=4facfe&icon_color=00c6ff&text_color=e6eefc&locale=en" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraptukrait&layout=compact&hide_border=true&bg_color=0b1730&title_color=4facfe&text_color=e6eefc&locale=en" alt="Most used languages" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=Kraptukrait&hide_border=true&background=0b1730&ring=4facfe&fire=00c6ff&currStreakLabel=4facfe&sideLabels=e6eefc&currStreakNum=e6eefc&sideNums=e6eefc&dates=93c5fd&locale=en" alt="Commit streak" />
 
 </div>
