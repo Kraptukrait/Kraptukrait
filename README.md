@@ -183,8 +183,7 @@ Supporting and motivating other junior developers through their exams and their 
 
 <div align="center">
 
-> *"Programming is 50% logic, 40% pure stubbornness when puzzling*
-> *and 10% the sweet belief that my teddy bear will make the bug disappear!"* ✨
+> *"It is not the easy days that define our path, but the decisions we make on the difficult ones."* ✨
 
 </div>
 
